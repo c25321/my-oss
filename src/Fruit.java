@@ -11,7 +11,7 @@ public class Fruit {
         this.name = name;
     }
     public void setWeight(int weight){
-        this.weight = weihgt;
+        this.weight = weigth;
     }
 
     public int getName(){
